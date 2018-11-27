@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/jeffperrin/.vim/bundle/Vundle.vim'
+let g:netrw_dirhist_2='/Users/jeffperrin/.vim/bundle/Vundle.vim/autoload'
+let g:netrw_dirhist_3='/Users/jeffperrin/.vim'
+let g:netrw_dirhist_4='/Users/jeffperrin/.vscode'
+let g:netrw_dirhist_5='/Users/jeffperrin/.anaconda'
+let g:netrw_dirhist_6='/Users/jeffperrin/.zsh'
